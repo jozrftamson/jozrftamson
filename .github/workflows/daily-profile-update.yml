@@ -15,6 +15,10 @@ env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   TZ: Europe/Berlin
 
+permissions:
+  contents: write
+  actions: read
+
 jobs:
   # ═══════════════════════════════════════════════════════════════
   # 🎬 PHASE 1: Data Collection & Analysis
