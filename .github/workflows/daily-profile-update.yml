@@ -304,8 +304,12 @@ jobs:
             echo "📭 No changes to commit"
           else
             git commit -F commit_message.txt
-            git push
-            echo "✅ Changes pushed successfully!"
+            if git push; then
+              echo "✅ Changes pushed successfully!"
+            else
+              echo "::warning::Push failed (likely missing write permission for GITHUB_TOKEN). Generated updates were committed locally but not pushed."
+              echo "::notice::Enable 'Read and write permissions' for Actions or use a write-capable token if you want this workflow to auto-push updates."
+            fi
           fi
 
   # ═══════════════════════════════════════════════════════════════
