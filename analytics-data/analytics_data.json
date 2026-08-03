@@ -1,0 +1,24 @@
+{
+  "total_repos": 203,
+  "languages": {
+    "TypeScript": 6,
+    "Java": 1,
+    "JavaScript": 7,
+    "Python": 5,
+    "C#": 1
+  },
+  "categories": {
+    "AI & Agents": 31,
+    "Web Development": 5,
+    "Backend & APIs": 11,
+    "Design & UI/UX": 7,
+    "Kubernetes": 2,
+    "Other": 147
+  },
+  "forks": 184,
+  "original": 19,
+  "private": 0,
+  "public": 203,
+  "stars": 19,
+  "updated_at": "2026-08-03T18:28:14.281526"
+}

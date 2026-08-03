@@ -1,0 +1,41 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>
+            .title { font: bold 20px sans-serif; fill: #ffffff; }
+            .label { font: 12px sans-serif; fill: #ffffff; }
+            .value { font: bold 12px sans-serif; fill: #ffffff; }
+        </style>
+    </defs>
+    <rect width="800" height="400" fill="#0d1117"/>
+    <text x="400.0" y="30" class="title" text-anchor="middle">Top 10 Programming Languages</text>
+    <text x="10" y="70" class="label">TypeScript</text>
+    <rect x="200" y="50" width="600.0" height="30" fill="#3178c6" rx="5"/>
+    <text x="810.0" y="70" class="value">70</text>
+    <text x="10" y="105" class="label">Python</text>
+    <rect x="200" y="85" width="385.7142857142857" height="30" fill="#3776ab" rx="5"/>
+    <text x="595.7142857142858" y="105" class="value">45</text>
+    <text x="10" y="140" class="label">JavaScript</text>
+    <rect x="200" y="120" width="197.14285714285714" height="30" fill="#f7df1e" rx="5"/>
+    <text x="407.1428571428571" y="140" class="value">23</text>
+    <text x="10" y="175" class="label">Go</text>
+    <rect x="200" y="155" width="188.57142857142856" height="30" fill="#00add8" rx="5"/>
+    <text x="398.57142857142856" y="175" class="value">22</text>
+    <text x="10" y="210" class="label">Jupyter Notebook</text>
+    <rect x="200" y="190" width="68.57142857142857" height="30" fill="#f37726" rx="5"/>
+    <text x="278.57142857142856" y="210" class="value">8</text>
+    <text x="10" y="245" class="label">Rust</text>
+    <rect x="200" y="225" width="42.857142857142854" height="30" fill="#dea584" rx="5"/>
+    <text x="252.85714285714286" y="245" class="value">5</text>
+    <text x="10" y="280" class="label">HTML</text>
+    <rect x="200" y="260" width="42.857142857142854" height="30" fill="#e34c26" rx="5"/>
+    <text x="252.85714285714286" y="280" class="value">5</text>
+    <text x="10" y="315" class="label">Java</text>
+    <rect x="200" y="295" width="34.285714285714285" height="30" fill="#b07219" rx="5"/>
+    <text x="244.28571428571428" y="315" class="value">4</text>
+    <text x="10" y="350" class="label">C#</text>
+    <rect x="200" y="330" width="34.285714285714285" height="30" fill="#178600" rx="5"/>
+    <text x="244.28571428571428" y="350" class="value">4</text>
+    <text x="10" y="385" class="label">PHP</text>
+    <rect x="200" y="365" width="25.714285714285715" height="30" fill="#4f5d95" rx="5"/>
+    <text x="235.71428571428572" y="385" class="value">3</text>
+</svg>

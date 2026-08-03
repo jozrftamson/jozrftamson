@@ -1,0 +1,31 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>
+            .title { font: bold 20px sans-serif; fill: #ffffff; }
+            .legend { font: 12px sans-serif; fill: #ffffff; }
+        </style>
+    </defs>
+    <rect width="600" height="400" fill="#0d1117"/>
+    <text x="300.0" y="30" class="title" text-anchor="middle">Project Categories</text>
+    <path d="M 300.0 200.0 L 420.0 200.0 A 120 120 0 0 1 377.06261123313317 291.98561816898865 Z" fill="#ff6b6b"/>
+    <rect x="20" y="80" width="15" height="15" fill="#ff6b6b"/>
+    <text x="40" y="92" class="legend">AI & Agents: 31 (13.9%)</text>
+    <path d="M 300.0 200.0 L 377.06261123313317 291.98561816898865 A 120 120 0 0 1 339.0061299568664 313.48357513661637 Z" fill="#4ecdc4"/>
+    <rect x="20" y="105" width="15" height="15" fill="#4ecdc4"/>
+    <text x="40" y="117" class="legend">Backend & APIs: 13 (5.8%)</text>
+    <path d="M 300.0 200.0 L 339.0061299568664 313.48357513661637 A 120 120 0 0 1 302.5357830115127 319.9732045271715 Z" fill="#45b7d1"/>
+    <rect x="20" y="130" width="15" height="15" fill="#45b7d1"/>
+    <text x="40" y="142" class="legend">Web Dev: 11 (4.9%)</text>
+    <path d="M 300.0 200.0 L 302.5357830115127 319.9732045271715 A 120 120 0 0 1 272.3567368004616 316.7726423426354 Z" fill="#96ceb4"/>
+    <rect x="20" y="155" width="15" height="15" fill="#96ceb4"/>
+    <text x="40" y="167" class="legend">Gaming & AR/VR: 9 (4.0%)</text>
+    <path d="M 300.0 200.0 L 272.3567368004616 316.7726423426354 A 120 120 0 0 1 243.94574300821688 306.10334713428756 Z" fill="#ffeaa7"/>
+    <rect x="20" y="180" width="15" height="15" fill="#ffeaa7"/>
+    <text x="40" y="192" class="legend">Design & UI/UX: 9 (4.0%)</text>
+    <path d="M 300.0 200.0 L 243.94574300821688 306.10334713428756 A 120 120 0 0 1 226.89293676743372 295.15964115899953 Z" fill="#326ce5"/>
+    <rect x="20" y="205" width="15" height="15" fill="#326ce5"/>
+    <text x="40" y="217" class="legend">Kubernetes: 6 (2.7%)</text>
+    <path d="M 300.0 200.0 L 226.89293676743372 295.15964115899953 A 120 120 0 1 1 419.99999999831005 199.9993631384496 Z" fill="#636e72"/>
+    <rect x="20" y="230" width="15" height="15" fill="#636e72"/>
+    <text x="40" y="242" class="legend">Other: 144 (64.6%)</text>
+</svg>
