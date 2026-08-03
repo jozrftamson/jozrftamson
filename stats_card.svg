@@ -1,0 +1,32 @@
+<svg width="400" height="500" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <style>
+            .title { font: bold 24px sans-serif; fill: #ffffff; }
+            .stat-label { font: bold 14px sans-serif; fill: #58a6ff; }
+            .stat-value { font: bold 20px sans-serif; fill: #ffffff; }
+            .emoji { font: 20px sans-serif; }
+        </style>
+    </defs>
+    <rect width="400" height="500" fill="#0d1117" rx="10"/>
+    <rect width="400" height="500" fill="none" stroke="#30363d" stroke-width="2" rx="10"/>
+    
+    <text x="200.0" y="40" class="title" text-anchor="middle">📊 Repository Stats</text>
+    
+    <text x="30" y="90" class="stat-label">Total Repositories</text>
+    <text x="30" y="120" class="stat-value">223</text>
+    
+    <text x="30" y="160" class="stat-label">🔱 Forks</text>
+    <text x="30" y="190" class="stat-value">183 (82%)</text>
+    
+    <text x="30" y="230" class="stat-label">💎 Original</text>
+    <text x="30" y="260" class="stat-value">40 (18%)</text>
+    
+    <text x="30" y="300" class="stat-label">🔒 Private</text>
+    <text x="30" y="330" class="stat-value">21 (9%)</text>
+    
+    <text x="30" y="370" class="stat-label">🌍 Public</text>
+    <text x="30" y="400" class="stat-value">202 (91%)</text>
+    
+    <text x="30" y="440" class="stat-label">⭐ With Stars</text>
+    <text x="30" y="470" class="stat-value">10</text>
+</svg>

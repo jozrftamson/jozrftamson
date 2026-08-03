@@ -219,3 +219,33 @@ graph LR
 *"Building the future, one commit at a time"* 🚀
 
 </div>
+
+---
+
+## 📊 Visual Analytics
+
+<div align="center">
+
+### Programming Languages Distribution
+![Languages](./languages_chart.svg)
+
+### Project Categories
+![Categories](./categories_chart.svg)
+
+### Repository Statistics
+![Stats](./stats_card.svg)
+
+### Skill Matrix
+![Skills](./skill_matrix.svg)
+
+</div>
+
+---
+
+## 📈 Detailed Analysis
+
+For a comprehensive analysis of this GitHub account, see:
+- [Complete Analysis Report](./GITHUB_ACCOUNT_COMPLETE_ANALYSIS.md)
+- [Visual Summary](./VISUAL_SUMMARY.md)
+- [Account Analysis](./ACCOUNT_ANALYSIS_REPORT.md)
+
