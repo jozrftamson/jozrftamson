@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Josefo (@jozrftamson)
-
+#
 ### 🤖 AI Engineer | ☸️ Cloud Native Enthusiast | 🎨 Design-Tech Bridge Builder
 
 [![GitHub followers](https://img.shields.io/github/followers/jozrftamson?style=social)](https://github.com/jozrftamson)
