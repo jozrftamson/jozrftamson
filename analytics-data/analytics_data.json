@@ -11,6 +11,7 @@
     "Shell": 2,
     "Rust": 2,
     "Go": 1,
+    "Mustache": 1,
     "Swift": 1
   },
   "categories": {
@@ -26,5 +27,5 @@
   "private": 0,
   "public": 238,
   "stars": 20,
-  "updated_at": "2026-11-27T07:40:47.110091"
+  "updated_at": "2026-11-28T07:15:36.008357"
 }
